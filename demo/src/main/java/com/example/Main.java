@@ -8,4 +8,8 @@ public class Main {
     public static void printMessage() {
         System.out.println("You are in feature one");
     }
+
+    public static void takeInfo() {
+        System.out.println("take info from user");
+    }
 }
